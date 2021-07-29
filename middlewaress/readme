@@ -1,0 +1,3 @@
+# Middleware é uma função ou programa que será executado entre o tempo
+    servidor recebe a solicitação e a hora em que o servidor enviar a solicitação 
+    para o cliente.
